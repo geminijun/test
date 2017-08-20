@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Littlelights</string>
+    <string name="question">Hello</string>
+    <string name="button_record">Record</string>
+    <string name="button_next">Next</string>
+</resources>
